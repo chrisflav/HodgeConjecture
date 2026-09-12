@@ -40,13 +40,8 @@ public import Other.Algebra.Category.Ring.Basic
 public import Other.Algebra.DeRham.Complex
 public import Other.Algebra.Homology.DerivedCategory.MappingCoconeShortExact
 public import Other.Algebra.Homology.DerivedCategory.RightDerivedFunctorPlusInjectiveModel
-public import Other.Algebra.Homology.MapArrowConeConnecting
-public import Other.Algebra.Homology.MapHomologyShift
 public import Other.AlgebraicGeometry.AlgebraicCycleSupport
 public import Other.AlgebraicGeometry.SingularGlobalSectionsAdditivity
-public import Other.AlgebraicGeometry.SingularSupportedOrdinaryConeComparison
-public import Other.AlgebraicGeometry.SingularSupportedOrdinarySign
-public import Other.AlgebraicGeometry.SingularSupportedRawOrdinaryComparison
 public import Other.AlgebraicGeometry.BorelMooreCycleClass
 public import Other.AlgebraicGeometry.ClosedImmersionPointNormalCoordinates
 public import Other.AlgebraicGeometry.CodimensionCycle
@@ -65,7 +60,6 @@ public import Other.AlgebraicGeometry.ComplexSheafBorelMoore
 public import Other.AlgebraicGeometry.ComplexSheafBorelMooreForget
 public import Other.AlgebraicGeometry.ComplexSheafBorelMooreRationalComparison
 public import Other.AlgebraicGeometry.ComplexSupportCohomologySheafNormalization
-public import Other.AlgebraicGeometry.ComplexSupportedOrdinaryComparison
 public import Other.AlgebraicGeometry.CycleClassDimension
 public import Other.AlgebraicGeometry.CycleClassOnCycles
 public import Other.AlgebraicGeometry.CycleComponentAnalyticEmbedding
@@ -79,7 +73,6 @@ public import Other.AlgebraicGeometry.CycleComponentLocalOrientationCoherence
 public import Other.AlgebraicGeometry.CycleComponentPointBoundary
 public import Other.AlgebraicGeometry.CycleComponentPointClassNormalization
 public import Other.AlgebraicGeometry.CycleComponentPointCoclassSectionNormalization
-public import Other.AlgebraicGeometry.CycleComponentPointOrdinarySign
 public import Other.AlgebraicGeometry.CycleComponentPointPurity
 public import Other.AlgebraicGeometry.CycleComponentRegularImmersion
 public import Other.AlgebraicGeometry.CycleComponentSheafBorelMooreClass
@@ -88,7 +81,6 @@ public import Other.AlgebraicGeometry.DerivedSupportRationalForget
 public import Other.AlgebraicGeometry.EtaleLocalHomeomorph
 public import Other.AlgebraicGeometry.HodgeCodimensionZero
 public import Other.AlgebraicGeometry.HolomorphicClosedImmersionCharts
-public import Other.AlgebraicGeometry.HypercohomologyFlasqueNaturality
 public import Other.AlgebraicGeometry.PointCycleClass
 public import Other.AlgebraicGeometry.ProjectiveAnalytificationConnected
 public import Other.AlgebraicGeometry.ProjectiveAnalytificationLocallyContractible
@@ -143,14 +135,12 @@ public import Other.AlgebraicTopology.FirstQuadrantRowwiseTotalization
 public import Other.AlgebraicTopology.FirstQuadrantTotalComplex
 public import Other.AlgebraicTopology.FlasqueSheafSupportComparison
 public import Other.AlgebraicTopology.GlobalFundamentalClass
-public import Other.AlgebraicTopology.GlobalRawRelativeConnecting
 public import Other.AlgebraicTopology.GraphNormalSlicePurity
 public import Other.AlgebraicTopology.HorizontalTotalHomotopy
 public import Other.AlgebraicTopology.IntegralCechTotalAugmentation
 public import Other.AlgebraicTopology.LowestFlasqueCohomology
 public import Other.AlgebraicTopology.NestedSheafSupportLocalization
 public import Other.AlgebraicTopology.OpenCoverOrderedCechBicomplex
-public import Other.AlgebraicTopology.OpenRawRelativeConnecting
 public import Other.AlgebraicTopology.OpenRestrictedLowestCohomologyNormalization
 public import Other.AlgebraicTopology.OpenRestrictionStalk
 public import Other.AlgebraicTopology.OrderedCechNormalization
@@ -158,7 +148,6 @@ public import Other.AlgebraicTopology.OrderedCechRealization
 public import Other.AlgebraicTopology.OrderedCechTupleAlgebra
 public import Other.AlgebraicTopology.PointSupportedChainSection
 public import Other.AlgebraicTopology.PuncturedEuclideanFundamentalClass
-public import Other.AlgebraicTopology.RelativeCochainConeForgetComparison
 public import Other.AlgebraicTopology.RelativeHomologyEmpty
 public import Other.AlgebraicTopology.RelativeMayerVietoris
 public import Other.AlgebraicTopology.SingularAmbientCapSheaf
@@ -189,9 +178,6 @@ public import Other.AlgebraicTopology.SingularTriadCapProduct
 public import Other.AlgebraicTopology.SingularTriadExcision
 public import Other.AlgebraicTopology.StandardSimplexSingularComparison
 public import Other.AlgebraicTopology.SupportRelativeCohomologyGermNonzero
-public import Other.AlgebraicTopology.SupportedSectionConeConnecting
-public import Other.AlgebraicTopology.SupportedSingularOrdinaryComparison
-public import Other.AlgebraicTopology.TopOpenRelativeCochainNormalization
 public import Other.CommutativeAlgebra.RegularLocalQuotientKernel
 public import Other.Geometry.Manifold.Orientation
 public import Other.Mathlib.Algebra.Module.LinearMap.Rat
